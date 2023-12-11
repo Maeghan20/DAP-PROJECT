@@ -11,17 +11,17 @@ Follow these steps to set up and run the Heart Attack Prediction and Analysis Ap
 2. Download CSV file and the project file
 
 3. Navigate to the project directory
-
-4. Install dependencies:
+4. Apply the migrations
+5. Install dependencies:
 pip install -r requirements.txt
 
-5. Run the .py file: 
+6. Run the .py file: 
 A pickle file will be procured
 Load the pickle file into the project directory
 Make alterations to the front end as desired
 Specify the CSV path according to the path given in the respective system (this will usually be present in the downloads folder)
 
-4. Run the application:
+7. Run the application:
 python manage.py runserver
 
 ## Usage Guidelines
